@@ -1,0 +1,1 @@
+This is a reformatted website designed to make it more accessible for users
